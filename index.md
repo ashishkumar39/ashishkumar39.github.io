@@ -2,6 +2,8 @@
 
 Checkout my [blog](https://ashishkumar39.github.io/blog/) where I talk about interesting things I find on internet :D
 
+### Another heading
+
 You can use the [editor on GitHub](https://github.com/ashishkumar39/ashishkumar39.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
